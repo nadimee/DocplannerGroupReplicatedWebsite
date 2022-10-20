@@ -1,0 +1,25 @@
+.statssection{display: flex;}
+
+#headerimageflex{display: flex;flex-direction: column;height: 600px;width: 800px;background-color: #DBF6F6;}
+#hiitemone{flex: 1;width:400px; height: 200px;padding-left: 180px;line-height: 2.5em;}
+#hiitemtwo{flex: 1;margin-bottom: 0px;margin-left: 50px;}
+
+
+
+
+
+#afterheadertwoitemsone{display: flex;flex-direction: column;flex-wrap:wrap;width: 450px;align-items: center;background-color: #DBF6F6;}
+#ahfiitemone{flex: 1;margin-top: 50px;margin-right: -50px;background-color: #ffff;border-radius:7px;}
+#ahfiitemtwo{flex: 1;margin-right: -50px;margin-top: 20px;margin-bottom: 20px;background-color: #ffff;border-radius:7px;}
+
+
+
+
+#afterheadertwoitemstwo{display: flex;flex-direction: column;flex-wrap:wrap;width: 450px;align-items: center;background-color: #DBF6F6;}
+#ahfiitemthree{flex: 1;margin-left:-100px;margin-top: 20px;background-color: #ffff;border-radius:7px;}
+#ahfiitemfour{flex: 1;margin-left:-100px;margin-top: 20px;margin-bottom: 50px;background-color: #ffff;border-radius:7px;}
+
+
+.statsheaders{font-size: 20px; width: 220pxpx;text-align: center;}
+.statsparagraphs{width: 220px;font-size: 14px;text-align: center;padding: 10px;}
+.statssigns{padding-top: 20px;text-align: center;padding-left: 100px;}

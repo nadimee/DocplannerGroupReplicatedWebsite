@@ -1,0 +1,48 @@
+.servicessection{display: flex;
+                  justify-content: center;padding-top: 30px;}
+#patientsbox{width:255px ;height: 285px;border-radius: 10px;padding: 30px;margin: 10px;background-color:#00CCB1 ;color:#FFFFFF ;}
+#doctorsbox{width:255px ;height: 285px;border-radius: 10px;padding: 30px;margin:10px;background-color: #3D83DF;color: #FFFFFF;}
+#clinicsbox{width:255px ;height: 285px;border-radius: 10px;padding: 30px;margin: 10px;background-color:#1B2734 ;color:#FFFFFF ;}
+
+.servicesheaders{
+                 margin-top: -1px;
+}
+.servicesparagraphs{
+    font-weight: 400;   font-size: 23px;letter-spacing: 1px;
+}
+.servicesselectbox1{
+    font-weight: 300; text-decoration: underline;   
+    width: 160px;
+    height: 40px;
+    border: 0px;
+    background-color:#00CCB1 ;color: #FFFFFF;
+    margin-top: 40px;font-size: 18px;
+    
+}
+.servicesselectbox2{
+    font-weight: 300; text-decoration: underline;   
+    width: 160px;
+    height: 40px;
+    border: 0px;
+    background-color:#3D83DF ;color: #FFFFFF;
+    margin-top: 40px;font-size: 18px;
+    
+}
+.servicesselectbox3{
+    font-weight: 300; text-decoration: underline;   
+    width: 160px;
+    height: 40px;
+    border: 0px;
+    background-color:#1B2734 ;color: #FFFFFF;
+    margin-top: 20px;font-size: 18px;
+    
+}
+.servicesselectbox4{
+    font-weight: 300; text-decoration: underline;   
+    width: 210px;
+    height: 40px;
+    border: 0px;
+    background-color:#1B2734 ;color: #FFFFFF;
+    margin-top: 10px;font-size: 18px;
+    
+}

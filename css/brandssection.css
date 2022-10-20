@@ -1,0 +1,25 @@
+.firstlogos a svg{width:130px;height:22px;fill: #C4C4C4;margin: 10px;margin-left: 15px;}
+.tuotempo a img{width:125px;height:50px;filter:grayscale(100%);margin: 10px;margin-top:-7px;margin-left: 15px;}
+.gipo a img{width:55px;height:50px;filter:grayscale(100%);margin: 10px;margin-top:-7px;margin-left: 15px;}
+.cliniccloud a img{width:85px;height:50px;filter:grayscale(100%);margin: 10px;margin-top:-7px;margin-left: 15px;}
+.jameda a img{width:85px;height:50px;filter:grayscale(100%);margin: 10px;margin-top:-7px;margin-left: 15px;}
+
+.firstlogos a svg:hover{fill: #00CCB1;}
+.tuotempo a img:hover{filter:grayscale(0%);}
+.gipo a img:hover{filter:grayscale(0%);}
+.cliniccloud a img:hover{filter:grayscale(0%);}
+.jameda a img:hover{filter:grayscale(0%);}
+
+
+.barndsandheadergrid{display: grid;grid-template-columns:500px 685px ;grid-template-rows: 200px;}
+#griditemone{ grid-column-start: 1;
+              grid-column-end: 1;
+              grid-row-start: 1;
+              grid-row-end: 1;}
+#griditemtwo{grid-column-start: 2;
+             grid-column-end: 2;
+             grid-row-start: 1;
+             grid-row-end: 1;}
+#headerbrands{display: flex;width: 300px;margin-left: 200px; font-weight: 400;line-height: 1.2em;font-size: 25px;margin-top: 55px;}
+#logos{display: flex;flex-wrap:wrap;justify-content: space-around;list-style: none;padding-left: 0px;margin-top: 50px;}
+

@@ -1,0 +1,29 @@
+.officesfirst{display: flex;}
+#officesheader{flex: 1;margin-left:35%;margin-right: 35%;line-height: 1.5em;text-align: center;font-size: 27px;}
+#officesparagraph{flex: 1;margin-left: 30%;margin-right: 30%;text-align: center;font-size: 15px;}
+
+
+
+
+.officessecond{display: flex;flex-wrap: wrap;justify-content: space-around;padding-left: 13%;padding-right: 13%;padding-top: 50px;padding-bottom: 30px;}
+#warsaw{padding-bottom: 15px;}
+#barcelona{padding-bottom: 15px;}
+#munich{padding-bottom: 15px;}
+#istanbul{padding-bottom: 15px;}
+#rome{padding-bottom: 15px;}
+#bologna{padding-bottom: 15px;}
+#curtiba{padding-bottom: 15px;}
+#mexicocity{padding-bottom: 15px;}
+#whiteimg{padding-bottom: 15px;}
+
+.oih{padding-left: 10px;}
+.officesbuttons{margin-left: 120px;background-color: #3D83DF;padding: 8px;border:none;border-radius: 3px;color:#ffff;font-size: 8.5px;letter-spacing: 0.1em;font-weight: 600;}
+#officesbuttons{margin-left: 88px;background-color: #3D83DF; padding: 8px;border:none;border-radius: 3px;color:#ffff;font-size: 8.5px;letter-spacing: 0.1em;font-weight: 600;}
+
+
+
+
+
+
+
+

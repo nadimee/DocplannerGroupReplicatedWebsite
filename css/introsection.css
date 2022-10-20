@@ -1,0 +1,12 @@
+.introductionsection{margin-top: 70px;}
+#firstheader{
+             display:flex;flex-direction: column;align-items: center;
+             padding-top: 30px;}
+.shparagraphs{padding: 30px;margin: 20px;width: 485px;
+              }
+#p1{padding-right: 0px;margin-right: 10px;}
+#p2{padding-left: 0px;margin-left: 10px;}
+#secondheader{display: flex;justify-content: center;}
+
+
+

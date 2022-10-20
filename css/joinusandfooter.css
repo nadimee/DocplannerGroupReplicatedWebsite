@@ -1,0 +1,12 @@
+#containerjoinusflex{display: flex;flex-direction: column;padding-bottom: 100px;}
+#headerjoin{padding-left: 33%; padding-right: 25%;color: #333333;font-size: 27px;}
+#buttonjoin{width: 220px;height: 42px; margin-left: 40%;padding: 12px;
+            background-color: #3D83DF;border:none;border-radius: 3px;color:#ffff;
+            font-size: 11px;letter-spacing: 0.1em;font-weight: 600;}
+
+
+
+#footerflexcontainer{display: flex; flex-direction: column;}
+#itemfone{padding-left: 15%;padding-right: 15%;font-size: 13px;text-align: center;color: #BDACAB;}
+#itemftwo{padding-left:15% ;padding-right: 15%;font-size: 13px;text-align: center;margin-top: -10px;color: #BDACAB;}
+.flinks{text-decoration: none;}
